@@ -3,11 +3,27 @@
 .itMe {
     float: left;
     margin-right: 10px;
+    height: 200px;
+    width: 200px;
+}
+
+html {
+    height: 100%;
 }
 
 body {
-    background-image: url("../assets/Images/christmas-colour.png");
+    background-image: url("../assets/Images/gaming-pattern.png");
     background-color: #cccccc;
     width: 100%;
     height: 100%;
    }
+
+
+h4 { 
+    background-color: white;
+    border: 1px solid black; 
+    margin: -30% 0;
+    padding: 10% 0; 
+    text-align: center; 
+    width: 93%;
+}
